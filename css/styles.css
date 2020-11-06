@@ -1,0 +1,267 @@
+
+ /* colors used
+black
+#33313b
+#d7c1e0
+#e6f5ff
+#876a96
+#464159
+  */
+
+/* TAG SELECTORS */
+body {
+  background-color: #33313b;
+  font-family: Montserrat;
+}
+
+h1 {
+  color: #d7c1e0;
+
+}
+
+h2 {
+  color: #e6f5ff;
+  line-height: 1.5;
+}
+
+h3 {
+  color: #876a96;
+  line-height: 1.5;
+}
+
+h4 {
+  color: #876a96;
+
+}
+
+a {
+  color: #e6f5ff;
+}
+
+p {
+  color: #d7c1e0;
+}
+
+table {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+
+td {
+  color: #d7c1e0;
+}
+
+section {
+position: relative;
+/* z-index: -1 !important; */
+padding-top:60px;
+}
+
+
+/* CLASS SELECTORS */
+
+.container-fluid {
+  padding-right: 10%;
+  padding-bottom: 3%;
+  padding-left: 10%;
+}
+
+.navbar {
+  /* background-color: black; */
+  background-color: #464159;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.navbar-brand {
+  color: #e6f5ff;
+  font-family: 'Simonetta', cursive;
+  font-size: 1.8rem;
+}
+
+
+
+.nav-padding {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.nav-link {
+  line-height: 0.5rem;
+
+}
+
+.steven-profile {
+  height: 400px;
+  width: auto;
+  border-top: 3rem;
+  border-right: 3rem;
+  border-bottom: 3rem;
+  border-left: 3rem;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+}
+
+.image-center {
+  text-align: center;
+}
+
+.poster {
+  height: 600px;
+  width: auto;
+}
+
+.description {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.carousel-image {
+  height: 400px;
+  width: auto;
+}
+
+.carousel-control-prev-icon {
+  position: absolute;
+  top: 50%;
+  left: 20rem;
+}
+
+.carousel-control-next-icon {
+  position: absolute;
+  top: 50%;
+  right: 20rem;
+}
+
+.carousel-indicators > li {
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+}
+
+
+.photos {
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+  font-weight: bold;
+}
+
+.container-fluid {
+  padding-top: 2.5rem;
+}
+
+.mist-bg {
+  background-image: url("../images/moon6.jpg");
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  padding-top: 0;
+}
+
+.text-center {
+  /* Here is what centered the title. */
+  margin: auto;
+}
+
+
+/* This is what made the images spaced out evenly */
+.img-container {
+  margin: auto;
+}
+
+/* .img-row {
+  margin: auto;
+} */
+
+.gallery-img {
+  height: 200px;
+  width: auto;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.black-bg {
+  background-color: black;
+}
+
+.carousel-text {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.album {
+  padding-top: 2rem;
+}
+
+.fa {
+  color: white;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+/* ID SELECTORS */
+
+#oc-link:hover {
+  color: #fff;
+}
+
+#shade {
+  font-family: Couture;
+  letter-spacing: 5px;
+
+}
+
+#mist {
+  letter-spacing: 5px;
+  line-height: normal;
+}
+
+#mist.shrink {
+  font-size: 1.2rem;
+}
+
+#contact {
+  /* background-color: #382039; */
+  background-color: black;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+#detective {
+  font-family: 'Special Elite', cursive;
+}
+
+#poet {
+  font-family: 'Playball', cursive;
+  font-size: 2.5rem;
+}
+
+#alien {
+  font-family: 'Orbitron', sans-serif;
+}
+
+#spider {
+  font-family: 'Eater', cursive;
+}
+
+#mannequin {
+  font-family: 'Lexend Tera', sans-serif;
+}
+
+#vampire {
+  font-family: 'Vollkorn SC', serif;
+}
